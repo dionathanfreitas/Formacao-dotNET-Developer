@@ -1,0 +1,15 @@
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\bin\Debug\net6.0\Sintaxe e tipos de dados em CSharp.exe
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\bin\Debug\net6.0\Sintaxe e tipos de dados em CSharp.deps.json
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\bin\Debug\net6.0\Sintaxe e tipos de dados em CSharp.runtimeconfig.json
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\bin\Debug\net6.0\Sintaxe e tipos de dados em CSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\bin\Debug\net6.0\Sintaxe e tipos de dados em CSharp.pdb
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.csproj.AssemblyReference.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.AssemblyInfoInputs.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.AssemblyInfo.cs
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\refint\Sintaxe e tipos de dados em CSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.pdb
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\Sintaxe e tipos de dados em CSharp.genruntimeconfig.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\Sintaxe e tipos de dados em CSharp\obj\Debug\net6.0\ref\Sintaxe e tipos de dados em CSharp.dll

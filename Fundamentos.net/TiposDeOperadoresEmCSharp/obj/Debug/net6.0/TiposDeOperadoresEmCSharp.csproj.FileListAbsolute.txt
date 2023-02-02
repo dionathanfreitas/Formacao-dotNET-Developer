@@ -1,0 +1,15 @@
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\bin\Debug\net6.0\TiposDeOperadoresEmCSharp.exe
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\bin\Debug\net6.0\TiposDeOperadoresEmCSharp.deps.json
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\bin\Debug\net6.0\TiposDeOperadoresEmCSharp.runtimeconfig.json
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\bin\Debug\net6.0\TiposDeOperadoresEmCSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\bin\Debug\net6.0\TiposDeOperadoresEmCSharp.pdb
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.csproj.AssemblyReference.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.AssemblyInfoInputs.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.AssemblyInfo.cs
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\refint\TiposDeOperadoresEmCSharp.dll
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.pdb
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\TiposDeOperadoresEmCSharp.genruntimeconfig.cache
+D:\Projetos\Estudo\Formação .NET Developer\Fundamentos.net\TiposDeOperadoresEmCSharp\obj\Debug\net6.0\ref\TiposDeOperadoresEmCSharp.dll
